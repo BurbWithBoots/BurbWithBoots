@@ -1,7 +1,15 @@
 ## Hi
 
-### I'm Burb (or BurbWithBoots)
+## I'm Burb (or BurbWithBoots)
 I make stuff, mostly games.
-https://codeberg.org/BurbWithBoots and https://git.burbwithboots.com are my main platforms.
+
+##
+
+## ----Git Platforms----
+https://git.burbwithboots.com is my main git platform.
+https://burbwithboots.com/GitPlatforms are the other git platforms i use.
+
+##
+
+## ----Contact information----
 Burb@sogium.net or burbwithboots on discord to contact me.
-![image](https://burbwithboots.com/burb.png)
