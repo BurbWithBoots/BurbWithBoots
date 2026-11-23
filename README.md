@@ -6,6 +6,7 @@ I make stuff, mostly games.
 ##
 
 ## ----Git Platforms----
+Note, these havent been setup yet!
 https://git.burbwithboots.com is my main git platform.
 https://burbwithboots.com/GitPlatforms are the other git platforms i use.
 
