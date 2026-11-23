@@ -2,6 +2,7 @@
 
 ## I'm Burb (or BurbWithBoots)
 I make stuff, mostly games.
+i mostly use C for my projects.
 
 ##
 
